@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Primeiro Programa Intellij.iml" filepath="$PROJECT_DIR$/Primeiro Programa Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercioMetodosDio/ExercioMetodosDio.iml" filepath="$PROJECT_DIR$/ExercioMetodosDio/ExercioMetodosDio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercicos/Lista de Exercicos.iml" filepath="$PROJECT_DIR$/Lista de Exercicos/Lista de Exercicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiro Programa/Primeiro Programa.iml" filepath="$PROJECT_DIR$/Primeiro Programa/Primeiro Programa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Workspace-Intellij.iml" filepath="$PROJECT_DIR$/.idea/Workspace-Intellij.iml" />
     </modules>
   </component>
 </project>
